@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import 'dotenv/config';
 
 const BASE    = process.env.API_URL;
-const VERSION = '2.1.1';
+const VERSION = '1.0.0';
 
 let _token = null;
 
